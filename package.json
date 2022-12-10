@@ -5,7 +5,7 @@
   "main": "find_new_skins.js",
   "dependencies": {
     "axios": "^0.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "moment-timezone": "^0.5.25",
     "node-telegram-bot-api": "^0.30.0",
